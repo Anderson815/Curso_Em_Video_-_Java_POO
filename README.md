@@ -1,6 +1,6 @@
 # Curso Em Vídeo: Java POO (Programação Orientada a Objetos)
 
-Exercícios ao longo do curso de **Java POO** da plataforma **Curso Em Vídeo**.
+Exercícios ao longo do curso de **Java POO** da plataforma <a href="https://www.cursoemvideo.com/cursos/">**Curso Em Vídeo**</a>.
 
 Nesse curso utiliza a **IDE NetBeans** e ensina:
 
